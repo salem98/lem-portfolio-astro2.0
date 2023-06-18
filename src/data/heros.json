@@ -1,0 +1,17 @@
+[
+    {
+        "heroName": "Kevin Mitnick",
+        "heroPicture": "kevinmitnick.webp",
+        "heroDescription": "American computer security consultant, author, and convicted hacker with expertise in social engineering and digital forensics best known for his high-profile 1995 arrest and five years in prison for various computer and communications-related crimes."
+    },
+    {
+        "heroName": "Mark Zuckerberg",
+        "heroPicture": "markzuckerberg.webp",
+        "heroDescription": "An American business magnate, internet entrepreneur, and philanthropist known for co-founding the social media website Facebook and its parent company, Meta Platforms, of which he is the executive chairman, chief executive officer, and controlling shareholder."
+    },
+    {
+        "heroName": "Waren Gonzaga",
+        "heroPicture": "warengonzaga.webp",
+        "heroDescription": "Filipino senior software engineer, open source developer and advocate, cybersecurity researcher, tech community leader, web3 enthusiast, and technopreneur from the Philippines."
+    }
+]

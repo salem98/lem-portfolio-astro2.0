@@ -1,0 +1,41 @@
+[
+    {
+        "id": "mytoolz",
+        "jobPicture": "mt.webp",
+        "jobColor": "#0086eb",
+        "jobTitle": "Back-end Developer",
+        "jobTime": "July 2021 - December 2021 (6 months)",
+        "jobCompany": "MyToolz.net",
+        "jobDescription": "I collaborated in the development of multiple web tools to be used by its users on the company's website. This includes the development of their back-end and web APIs to increase the speed of their service.",
+        "jobActivities": [
+            "Design and programming of user interfaces with HTML, CSS and JavaScript, with responsive design.",
+            "Back-end development with PHP.",
+            "API development with PHP.",
+            "Consumption of REST APIs with JavaScript.",
+            "Modeling and implementation of MySQL databases."
+        ],
+        "jobTechnologies": [
+            { "name": "HTML", "icon": "html" },
+            {
+                "name": "CSS",
+                "icon": "css"
+            },
+            {
+                "name": "JavaScript",
+                "icon": "javascript"
+            },
+            {
+                "name": "jQuery",
+                "icon": "jquery"
+            },
+            {
+                "name": "PHP",
+                "icon": "php"
+            },
+            {
+                "name": "MySQL",
+                "icon": "mysql"
+            }
+        ]
+    }
+]

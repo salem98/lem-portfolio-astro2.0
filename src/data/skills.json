@@ -1,0 +1,146 @@
+[
+    {
+        "skillName": "HTML",
+        "skillPicture": "html.svg"
+    },
+    {
+        "skillName": "CSS",
+        "skillPicture": "css.svg"
+    },
+    {
+        "skillName": "JavaScript",
+        "skillPicture": "javascript.svg"
+    },
+    {
+        "skillName": "PHP",
+        "skillPicture": "php.svg"
+    },
+    {
+        "skillName": "MySQL",
+        "skillPicture": "mysql.svg"
+    },
+    {
+        "skillName": "Bootstrap",
+        "skillPicture": "bootstrap.svg"
+    },
+    {
+        "skillName": "jQuery",
+        "skillPicture": "jquery.svg"
+    },
+    {
+        "skillName": "Git",
+        "skillPicture": "git.svg"
+    },
+    {
+        "skillName": "Node.js",
+        "skillPicture": "node.svg"
+    },
+    {
+        "skillName": "React.js",
+        "skillPicture": "react.svg"
+    },
+    {
+        "skillName": "WordPress",
+        "skillPicture": "wordpress.svg"
+    },
+    {
+        "skillName": "Linux",
+        "skillPicture": "linux.svg"
+    },
+    {
+        "skillName": "VS Code",
+        "skillPicture": "vscode.svg"
+    },
+    {
+        "skillName": "Laravel",
+        "skillPicture": "laravel.svg"
+    },
+    {
+        "skillName": "GitHub",
+        "skillPicture": "github.svg"
+    },
+    {
+        "skillName": "CodeIgniter",
+        "skillPicture": "codeigniter.svg"
+    },
+    {
+        "skillName": "AWS",
+        "skillPicture": "aws.svg"
+    },
+    {
+        "skillName": "Figma",
+        "skillPicture": "figma.svg"
+    },
+    {
+        "skillName": "Google Cloud Platform",
+        "skillPicture": "gcp.svg"
+    },
+    {
+        "skillName": "Microsoft Azure",
+        "skillPicture": "azure.svg"
+    },
+    {
+        "skillName": "Adobe Photoshop",
+        "skillPicture": "photoshop.svg"
+    },
+    {
+        "skillName": "Styled Components",
+        "skillPicture": "styledcomponents.svg"
+    },
+    {
+        "skillName": "Chrome DevTools",
+        "skillPicture": "chrome.svg"
+    },
+    {
+        "skillName": "NPM",
+        "skillPicture": "npm.svg"
+    },
+    {
+        "skillName": "Express",
+        "skillPicture": "express.svg"
+    },
+    {
+        "skillName": "Invision Community",
+        "skillPicture": "invisioncommunity.svg"
+    },
+    {
+        "skillName": "Jekyll",
+        "skillPicture": "jekyll.svg"
+    },
+    {
+        "skillName": "Netlify",
+        "skillPicture": "netlify.svg"
+    },
+    {
+        "skillName": "Vercel",
+        "skillPicture": "vercel.svg"
+    },
+    {
+        "skillName": "Replit",
+        "skillPicture": "replit.svg"
+    },
+    {
+        "skillName": "Xenforo",
+        "skillPicture": "xenforo.svg"
+    },
+    {
+        "skillName": "Astro",
+        "skillPicture": "astro.svg"
+    },
+    {
+        "skillName": "GitLab",
+        "skillPicture": "gitlab.svg"
+    },
+    {
+        "skillName": "Canva",
+        "skillPicture": "canva.svg"
+    },
+    {
+        "skillName": "Streamlit",
+        "skillPicture": "streamlit.svg"
+    },
+    {
+        "skillName": "cPanel",
+        "skillPicture": "cpanel.svg"
+    }
+]

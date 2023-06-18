@@ -1,0 +1,52 @@
+[
+    {
+        "id": "buddy",
+        "carouselImages": ["1.webp", "2.webp", "3.webp", "4.webp", "5.webp", "6.webp", "7.webp", "8.webp"],
+        "projectRepo": "",
+        "projectSite": "https://buddy.dnachavez.ph",
+        "projectTitle": "Buddy",
+        "projectSlogan": "Chatbot assistant using commands and AI",
+        "projectDescription": "A conversational interface assistant web app for the University of Southern Philippines Foundation that provides quick access to information about the university through commands and answers broader questions with the help of the GPT-3.5-turbo model from OpenAI and can generate images using OpenAI's DALL-E 2. It was developed as part of the final requirement for CC122 Intermediate Programming using PHP and MySQL and deployed in cPanel.",
+
+        "projectTechnologies": [
+            { "name": "HTML", "icon": "html" },
+            {
+                "name": "CSS",
+                "icon": "css"
+            },
+            {
+                "name": "JavaScript",
+                "icon": "javascript"
+            },
+            {
+                "name": "PHP",
+                "icon": "php"
+            },
+            {
+                "name": "MySQL",
+                "icon": "mysql"
+            },
+            {
+                "name": "cPanel",
+                "icon": "cpanel"
+            }
+        ]
+    },
+    {
+        "id": "auggiegpt",
+        "carouselImages": ["1.webp", "2.webp", "3.webp", "4.webp"],
+        "projectRepo": "https://github.com/dnachavez/AuggieGPT",
+        "projectSite": "https://auggiegpt.streamlit.app",
+        "projectTitle": "AuggieGPT",
+        "projectSlogan": "ChatGPT-powered chatbot assistant",
+        "projectDescription": "A simple Streamlit application powered by OpenAI's GPT-3.5-turbo model. This chatbot assistant can provide answers to questions specifically about the University of Southern Philippines Foundation (USPF).",
+
+        "projectTechnologies": [
+            { "name": "Python", "icon": "python" },
+            {
+                "name": "Streamlit",
+                "icon": "streamlit"
+            }
+        ]
+    }
+]
