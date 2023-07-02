@@ -40,6 +40,10 @@
         "skillPicture": "react.svg"
     },
     {
+        "skillName": "Next.js",
+        "skillPicture": "nextjs.svg"
+    },
+    {
         "skillName": "WordPress",
         "skillPicture": "wordpress.svg"
     },

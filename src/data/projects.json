@@ -48,5 +48,22 @@
                 "icon": "streamlit"
             }
         ]
+    },
+    {
+        "id": "gtranslation",
+        "carouselImages": ["1.webp", "2.webp", "3.webp", "4.webp"],
+        "projectRepo": "https://github.com/dnachavez/nextjs-gtranslation-app",
+        "projectSite": "https://gtranslation.netlify.app/",
+        "projectTitle": "Google Translation",
+        "projectSlogan": "Translation App with Next.js, Chakra UI, and Google Translate API",
+        "projectDescription": "A web-based translation app built using Next.js and Chakra UI. It uses the Google Translate API provided by Pawan.Krd, allowing users to translate text from one language to another.",
+
+        "projectTechnologies": [
+            { "name": "Next.js", "icon": "nextjs" },
+            {
+                "name": "Netlify",
+                "icon": "netlify"
+            }
+        ]
     }
 ]
