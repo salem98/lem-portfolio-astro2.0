@@ -1,5 +1,67 @@
 [
     {
+        "id": "uspf",
+        "jobPicture": "uspf.webp",
+        "jobColor": "#27235e",
+        "jobTitle": "Junior Systems Developer",
+        "jobTime": "June 2023 - Present",
+        "jobCompany": "University of Southern Philippines Foundation",
+        "jobDescription": "I am currently collaborating in the development of multiple web systems to be used by the university and its stakeholders. This includes the development of both front-end, back-end, and web APIs.",
+        "jobActivities": [
+            "Design and programming of user interfaces with HTML, CSS and JavaScript, with responsive design.",
+            "Back-end development with PHP and CodeIgniter 4.",
+            "API development with PHP and CodeIgniter 4 REST API.",
+            "Modeling and implementation of MySQL databases."
+        ],
+        "jobTechnologies": [
+            { "name": "HTML", "icon": "html" },
+            {
+                "name": "CSS",
+                "icon": "css"
+            },
+            {
+                "name": "JavaScript",
+                "icon": "javascript"
+            },
+            {
+                "name": "jQuery",
+                "icon": "jquery"
+            },
+            {
+                "name": "PHP",
+                "icon": "php"
+            },
+            {
+                "name": "MySQL",
+                "icon": "mysql"
+            },
+            {
+                "name": "CodeIgniter",
+                "icon": "codeigniter"
+            },
+            {
+                "name": "cPanel",
+                "icon": "cpanel"
+            },
+            {
+                "name": "AWS",
+                "icon": "aws"
+            },
+            {
+                "name": "Linux",
+                "icon": "linux"
+            },
+            {
+                "name": "GitHub",
+                "icon": "github"
+            },
+            {
+                "name": "Git",
+                "icon": "git"
+            }
+        ]
+    },
+    {
         "id": "mytoolz",
         "jobPicture": "mt.webp",
         "jobColor": "#0086eb",
