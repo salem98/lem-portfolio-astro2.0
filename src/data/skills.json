@@ -64,6 +64,10 @@
         "skillPicture": "github.svg"
     },
     {
+        "skillName": "Python",
+        "skillPicture": "python.svg"
+    },
+    {
         "skillName": "CodeIgniter",
         "skillPicture": "codeigniter.svg"
     },
