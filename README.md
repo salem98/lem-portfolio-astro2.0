@@ -1,6 +1,6 @@
 <h1 align="center">
   <div align="center">
-    <img alt="dnachavez (Nathan Pham) logo" src="./public/favicon.svg" height="150px" width="auto"/>
+    <img alt="dnachavez (Dan Chavez) logo" src="./public/favicon.svg" height="150px" width="auto"/>
   </div>
   <br/>
   Portfolio - Nathan Pham
